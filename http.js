@@ -12,7 +12,7 @@ import store from './src/store/store';
 import _ from 'lodash';
 import Router from './src/router/index'
 import qs from 'querystring';
-const baseURL = 'https://api.linduky.com/v1';
+const baseURL = 'https://location';
 let loading;
 let needLoadingRequestCount = 0;
 let refresh_token = true;
